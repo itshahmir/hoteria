@@ -1,0 +1,20 @@
+[23-Dec-2022 00:40:15 America/New_York] PHP Warning:  Undefined array key "variable" in /home/almashotelpk/public_html/restaurant/Hoteria/view_employees.php on line 5
+[23-Dec-2022 01:00:25 America/New_York] PHP Warning:  Undefined array key "variable" in /home/almashotelpk/public_html/restaurant/Hoteria/view_employees.php on line 5
+[23-Dec-2022 06:11:45 America/New_York] PHP Warning:  Undefined array key "variable" in /home/almashotelpk/public_html/restaurant/Hoteria/view_employees.php on line 5
+[26-Dec-2022 02:09:46 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4336
+[26-Dec-2022 02:10:50 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4336
+[26-Dec-2022 02:10:57 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4336
+[26-Dec-2022 02:13:14 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4563
+[13-Jan-2023 08:55:43 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'almashotelpk_saif'@'localhost' (using password: YES) in /home/almashotelpk/public_html/restaurant/Hoteria/import_db.php:7
+Stack trace:
+#0 /home/almashotelpk/public_html/restaurant/Hoteria/import_db.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/almashotelpk/public_html/restaurant/Hoteria/import_db.php on line 7
+[16-Jan-2023 05:59:43 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4353
+[16-Jan-2023 06:00:00 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4353
+[16-Jan-2023 06:00:36 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4354
+[16-Jan-2023 06:00:44 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4354
+[16-Jan-2023 06:01:21 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4354
+[16-Jan-2023 06:01:46 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4354
+[16-Jan-2023 06:03:40 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4354
+[16-Jan-2023 06:03:44 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in /home/almashotelpk/public_html/restaurant/Hoteria/include/classes/database.php on line 4354
